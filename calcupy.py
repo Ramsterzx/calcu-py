@@ -16,8 +16,10 @@ fn = input()
 
 print("What's your second number?")
 sn = input()
-print("What's yout third number (leave blank if none)")
+print("What's yout third number")
 tn = input()
+# collects third number
+
 # Gives answer
 
 add(fn, sn, tn)
